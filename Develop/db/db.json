@@ -1,6 +1,14 @@
-[
+{
+  "notes": [
     {
-        "title":"Test Title",
-        "text":"Test text"
+      "title": "test",
+      "text": "tests",
+      "id": "1f3f9439-8a5a-4cb2-a2b6-ff0f04cfcee5"
+    },
+    {
+      "title": "wash dog",
+      "text": "this is atest",
+      "id": "60c4ad8d-0c2c-4a9b-89a6-48555f780284"
     }
-]
+  ]
+}
