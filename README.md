@@ -2,7 +2,7 @@
 
 ## Website
 
-[App website](https://youtu.be/9uHG8jQ1Fkc)
+[App website](https://secret-reaches-78088.herokuapp.com/)
 
 ![Note-Taker-DEMO](/img/note-taker.png)
 
